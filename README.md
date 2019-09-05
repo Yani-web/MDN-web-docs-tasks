@@ -30,6 +30,6 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form">6.Build a payment form
 </a></h2>
  <p>Result</p>
-<img src="06.Build a payment form/formDemo.png" alt="a payment form">
+<img src="06.Build a payment form/Demo.png" alt="a payment form">
 
 
