@@ -20,4 +20,11 @@
 <img src="04.Timetable/TimetableDemo.png" alt="Timetable Demo">
 
 
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data">5. Structuring planet data
+</a></h2>
+ <p>Result</p>
+<img src="05.Structuring planet data/PlanetsDemo.png" alt="Planets data">
+
+
+
 
