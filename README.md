@@ -37,3 +37,7 @@
  <p>Result</p>
 <img src="07.Postcard/screenshot.png" alt="Postcard">
 
+<h2><a href="https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Styling_HTML_forms">8. Punk bands table
+</a></h2>
+ <a href="08.Punk bands table/punk-bands.html">>Result</a>
+
