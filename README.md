@@ -32,4 +32,8 @@
  <p>Result</p>
 <img src="06.Build a payment form/Demo.png" alt="a payment form">
 
+<h2><a href="https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Styling_HTML_forms">7. Postcard
+</a></h2>
+ <p>Result</p>
+<img src="07.Postcard/screenshot.png" alt="Postcard">
 
