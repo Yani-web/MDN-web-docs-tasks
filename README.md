@@ -39,5 +39,5 @@
 
 <h2><a href="https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Styling_HTML_forms">8. Punk bands table
 </a></h2>
- <a href="08.Punk bands table/punk-bands.html">>Result</a>
-
+ <p>Result</p>
+<img src="08.Punk bands table/table-with-caption.png" alt="table with css">
