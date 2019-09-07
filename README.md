@@ -37,7 +37,12 @@
  <p>Result</p>
 <img src="07.Postcard/screenshot.png" alt="Postcard">
 
-<h2><a href="https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Styling_HTML_forms">8. Punk bands table
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables">8. Punk bands table
 </a></h2>
  <p>Result</p>
 <img src="08.Punk bands table/table-with-caption.png" alt="table with css">
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension">9.Business card
+</a></h2>
+ <p>Result</p>
+<img src="09.Business card/card.png" alt="personal information card">
