@@ -50,3 +50,9 @@
 <h2>10.Styling lists</h2>
  <p>Result</p>
 <img src="10.Styling lists/demo.png" alt="lists with css">
+
+
+<h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts">11.Web font
+</a></h2>
+ <p>Result</p>
+<img src="11.Web font/demo.png" alt="fonts with css">
