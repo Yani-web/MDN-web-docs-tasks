@@ -46,3 +46,7 @@
 </a></h2>
  <p>Result</p>
 <img src="09.Business card/card.png" alt="personal information card">
+
+<h2>10.Styling lists</h2>
+ <p>Result</p>
+<img src="10.Styling lists/demo.png" alt="lists with css">
