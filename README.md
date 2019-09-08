@@ -61,5 +61,4 @@
 <h2><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage">12. A community school homepage
 </a></h2>
  <p>Result</p>
-<img src="12. A community school homepage
-/demo.png" alt="homepage with css">
+<img src="12. A community school homepage/demo.png" alt="homepage with css">
